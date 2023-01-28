@@ -1,0 +1,2 @@
+# GelbooruTagTranslation
+存放Tag翻译数据供脚本使用
